@@ -1,0 +1,20 @@
+//package com.collections;
+//
+//class Node<T>{
+//	
+//	T data;
+//	Node<T> next;
+//	
+//	Node(T data){
+//		this.data = data;
+//		
+//		this.next = null;
+//	}
+//}
+//
+//public class Exp10 {
+//
+//	public static void main(String[] args) {
+//		
+//	}
+//}
